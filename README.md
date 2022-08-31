@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
+<p>
 ![Visitor Count](https://profile-counter.glitch.me/shvyac/count.svg)
-</div>
+</p>
   
   
 
