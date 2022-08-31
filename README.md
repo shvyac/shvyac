@@ -32,6 +32,10 @@ Here are some ideas to get you started:
 -->
 
 ![Visitor Count](https://profile-counter.glitch.me/shvyac/count.svg)
+
+curl https://profile-counter.glitch.me/shvyac/count.svg
+
+
   
   
 
